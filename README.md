@@ -7,4 +7,6 @@ Task: Predict the percentage of a student based on the no. of study hours using 
 Dataset Link: http://bit.ly/w-data
 
 Email: hsn.kapadia@gmail.com
+
+YouTube Link: https://youtu.be/NJhbFx73xb8
 ***
